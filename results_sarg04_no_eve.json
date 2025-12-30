@@ -1,0 +1,189 @@
+[
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 3e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 256,
+      "abort_rate": 1.0,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 0,
+      "successful_rate": 0.0,
+      "mean_qber_cb": null,
+      "std_qber_cb": null,
+      "mean_qber_fk": null,
+      "std_qber_fk": null
+    }
+  },
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 4e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 252,
+      "abort_rate": 0.984375,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 4,
+      "successful_rate": 0.015625,
+      "mean_qber_cb": 0.0,
+      "std_qber_cb": 0.0,
+      "mean_qber_fk": 0.0,
+      "std_qber_fk": 0.0
+    }
+  },
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 2e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 239,
+      "abort_rate": 0.93359375,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 17,
+      "successful_rate": 0.06640625,
+      "mean_qber_cb": 0.014705882352941176,
+      "std_qber_cb": 0.040273717463615154,
+      "mean_qber_fk": 0.007352941176470588,
+      "std_qber_fk": 0.029411764705882356
+    }
+  },
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 3e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 156,
+      "abort_rate": 0.609375,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 100,
+      "successful_rate": 0.390625,
+      "mean_qber_cb": 0.00875,
+      "std_qber_cb": 0.03189337705543268,
+      "mean_qber_fk": 0.0,
+      "std_qber_fk": 0.0
+    }
+  },
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 3e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 156,
+      "abort_rate": 0.609375,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 100,
+      "successful_rate": 0.390625,
+      "mean_qber_cb": 0.00625,
+      "std_qber_cb": 0.027243118397129208,
+      "mean_qber_fk": 0.01375,
+      "std_qber_fk": 0.042920711783473495
+    }
+  },
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 3e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 14,
+      "abort_rate": 0.0546875,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 242,
+      "successful_rate": 0.9453125,
+      "mean_qber_cb": 0.00981404958677686,
+      "std_qber_cb": 0.03726533364757801,
+      "mean_qber_fk": 0.0025826446280991736,
+      "std_qber_fk": 0.017780903386424074
+    }
+  },
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 4e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 33,
+      "abort_rate": 0.12890625,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 223,
+      "successful_rate": 0.87109375,
+      "mean_qber_cb": 0.0072869955156950675,
+      "std_qber_cb": 0.03158969238476541,
+      "mean_qber_fk": 0.007847533632286996,
+      "std_qber_fk": 0.030320915552238835
+    }
+  },
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 3e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 0,
+      "abort_rate": 0.0,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 256,
+      "successful_rate": 1.0,
+      "mean_qber_cb": 0.00634765625,
+      "std_qber_cb": 0.02744383886014921,
+      "mean_qber_fk": 0.005859375,
+      "std_qber_fk": 0.026421385270446646
+    }
+  },
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 3e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 2,
+      "abort_rate": 0.0078125,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 254,
+      "successful_rate": 0.9921875,
+      "mean_qber_cb": 0.0054133858267716535,
+      "std_qber_cb": 0.025443436918721585,
+      "mean_qber_fk": 0.013779527559055118,
+      "std_qber_fk": 0.04217378993233967
+    }
+  },
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 3e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 0,
+      "abort_rate": 0.0,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 256,
+      "successful_rate": 1.0,
+      "mean_qber_cb": 0.0068359375,
+      "std_qber_cb": 0.028421156661826655,
+      "mean_qber_fk": 0.0068359375,
+      "std_qber_fk": 0.028421156661826655
+    }
+  },
+  {
+    "backend_name": "aer_simulator_from(ibm_fez)",
+    "execution_time_secs": 3e-06,
+    "aggr_results": {
+      "total_trials": 256,
+      "abort_count": 4,
+      "abort_rate": 0.015625,
+      "tmm_count": 0,
+      "tmm_rate": 0.0,
+      "successful_count": 252,
+      "successful_rate": 0.984375,
+      "mean_qber_cb": 0.012896825396825396,
+      "std_qber_cb": 0.04115569149343559,
+      "mean_qber_fk": 0.011408730158730158,
+      "std_qber_fk": 0.03768209233196171
+    }
+  }
+]
